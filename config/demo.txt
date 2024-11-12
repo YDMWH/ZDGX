@@ -39,8 +39,8 @@ CETV5
 
 CHC电影,#genre#
 CHC动作电影
-CHC高清电影
 CHC家庭影院
+CHC影迷电影
 
 卫视频道,#genre#
 安多卫视
