@@ -201,14 +201,6 @@ docker run -v /etc/docker/config:/tv-requests/config -v /etc/docker/output:/tv-r
 
 [MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
 
-## 💰️ Appreciate
-
-<div>Please buy me a cup of coffee☕️~</div>
-
-| Alipay                                | Wechat                                    |
-| ------------------------------------- | ----------------------------------------- |
-| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
-
 ## 📣 Disclaimer
 
 This project is for learning and communication purposes only. All interface data comes from the internet. If there is any infringement, please contact us for removal.
