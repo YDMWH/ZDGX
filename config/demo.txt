@@ -1,4 +1,4 @@
-央视,#genre#
+央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -30,14 +30,14 @@ CCTV-世界地理
 CCTV-台球
 CCTV-文化精品
 
-CETV,#genre#
+CETV频道,#genre#
 CETV-1
 CETV-2
 CETV-3
 CETV-4
 CETV-5
 
-CHC电影,#genre#
+CHC频道,#genre#
 CHC-动作电影
 CHC-家庭影院
 CHC-影迷电影
@@ -81,7 +81,7 @@ CHC-影迷电影
 云南卫视
 浙江卫视
 
-湖南,#genre#
+湖南频道,#genre#
 湖南爱晚
 湖南都市
 湖南经视
